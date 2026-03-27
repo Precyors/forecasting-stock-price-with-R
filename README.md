@@ -1,8 +1,3 @@
-
-Here’s a clean, professional **README.md** you can drop straight into your GitHub repo. It’s written to showcase both your technical understanding and portfolio value.
-
----
-
 # 📈 Apple Stock Price Analysis & Forecasting (R)
 
 ## 🔹 Overview
