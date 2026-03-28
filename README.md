@@ -118,16 +118,6 @@ plot(forecast_values)
 
 ---
 
-## 🔹 Why This Project Matters
-
-This project demonstrates the ability to:
-
-* Work with **real-world financial data**
-* Apply **statistical modeling techniques**
-* Build **predictive systems**, a key skill in data science and AI
-
----
-
 ## 🔹 Possible Improvements
 
 * Add model evaluation metrics (MAE, RMSE)
