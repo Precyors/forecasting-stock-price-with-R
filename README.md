@@ -147,17 +147,4 @@ install.packages(c("quantmod", "forecast"))
 
 2. Run the script in R or RStudio.
 
----
 
-## 🔹 Author
-
-**Precious Odutola**
-Aspiring AI Engineer | Data Science Enthusiast
-
----
-
-If you want, I can also:
-
-* Turn this into a **more recruiter-optimized version**
-* Add **badges + project screenshots**
-* Or help you write a **LinkedIn post** to showcase it 🚀
